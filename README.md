@@ -27,4 +27,8 @@ If you're passionate about **technology** or share an interest in the **real est
 ---
 
 **"Building solutions that make a difference, simplifying processes, and transforming industries."**
+
+
+---
+
 [LinkedIn Profile](https://www.linkedin.com/in/mrkoliveira)
