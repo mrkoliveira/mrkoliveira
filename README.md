@@ -32,3 +32,42 @@ If you're passionate about **technology** or share an interest in the **real est
 ---
 
 [LinkedIn Profile](https://www.linkedin.com/in/mrkoliveira)
+
+------------------------------------------
+
+# Olá - Empreendedor e Profissional de Tecnologia
+
+Sou um **profissional autodidata e versátil** com mais de **25 anos de experiência** no setor de **tecnologia**, iniciando minha carreira como **DBA** e expandindo minha expertise para **arquitetura de sistemas**, **DevOps** e **desenvolvimento**. Minha jornada no mundo de **SaaS** começou em **1999**, quando criei meu primeiro projeto, o **SpeedJob**, focado na **otimização de processos de currículos**.
+
+Ao longo dos anos, desenvolvi e comercializei **5 soluções SaaS/PaaS**, que foram adquiridas por empresas, permitindo-me entrar no **mercado imobiliário**, onde encontrei **equilíbrio financeiro e pessoal**, possibilitando a continuidade na criação de **software como serviço**.
+
+Atualmente, meu foco está em desenvolver um **SaaS inovador para o mercado imobiliário**, criando **ferramentas inteligentes e eficientes** para gestão de imóveis e locações, com o objetivo de facilitar a vida de proprietários e inquilinos.
+
+## Tecnologias com as quais trabalho
+
+- **Bancos de Dados**: Oracle, MySQL, PostgreSQL, MongoDB, Cassandra, Hadoop, Spark, Redis, Memcached, Firebase, MariaDB, CouchDB, ScaleDB, DynamoDB.
+- **Tecnologias de Nuvem e DevOps**: AWS, Azure, Kubernetes, Docker, Terraform, Serverless, Python, Ansible, Jenkins, Microsserviços.
+- **Linguagens de Programação**: GoLang, Python, SQL, JavaScript, TypeScript, C++, Perl, PHP, NoSQL, Shell Script.
+- **Ecossistema**: Airflow, Kafka, Hadoop, Spark, RabbitMQ.
+- **Sistemas Operacionais**: Linux (minha verdadeira paixão).
+
+## Meu foco
+
+- Construir soluções **escaláveis e lucrativas** que atendam às necessidades de diversos mercados.
+- Desenvolver **tecnologias inovadoras** que causem um impacto positivo e transformem a experiência de quem lida com gestão de imóveis e locações.
+- **Combinar tecnologia e negócios**, integrando minha expertise técnica com a experiência prática no mercado imobiliário.
+
+## Vamos nos conectar!
+
+Se você é apaixonado por **tecnologia** ou compartilha interesse no **mercado imobiliário**, sinta-se à vontade para entrar em contato e explorar possibilidades de colaboração.
+
+---
+
+**"Construindo soluções que fazem a diferença, simplificando processos e transformando indústrias."**
+
+---
+
+[Perfil no LinkedIn](https://www.linkedin.com/in/mrkoliveira)
+
+
+
